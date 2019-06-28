@@ -2,6 +2,7 @@
 #wall .tag-1 {display:none;} 
 #wall .parent {display:none;}
 #wall .parent tag-6 {display:none;}
+#wall .parent[class="slick"] {display:none;}
 
 
 
